@@ -1,6 +1,7 @@
 'user strict'
 
 const express = require('express');
+const path = require('path');
 
 const PORT = 8000;
 const HOST = '0.0.0.0'
